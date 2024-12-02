@@ -1,4 +1,4 @@
-# diabetes_umass
+# Medbot
 
 ## Quickstart
 
